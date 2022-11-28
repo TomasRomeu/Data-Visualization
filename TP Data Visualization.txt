@@ -1,0 +1,16 @@
+Consignas evaluación práctica "Visualización de datos"
+
+Teniendo en cuenta los conceptos aprendidos y las herramientas utilizadas:
+
+Realizar un tablero en la herramienta de preferencia (Microstrategy o Tableau) teniendo en cuenta
+los siguientes requerimientos del usuario:
+
+- Nos gustaría poder ver la tendencia de ventas de año a año separada por mes. De ser posible, permitiéndonos 
+elegir el año a comparar.  El titulo de esta visualización deberá ser "COMPARATIVA ANUAL".
+
+- También quisieramos ver la proporción de productos vendidos (Product Name y sales) por estado (filtro de atributo State)
+en el último mes (Tomar último mes disponible en el dataset, se pueden apoyar en las visualizaciones de grilla para verlo más fácil) 
+aunque no tenemos decidido como queremos verlo. Titulo a elección
+
+- Por último quisiéramos ver una comparativa de los beneficios (Profit) de los 5 productos más vendidos (Sales) por sub-categoria a nivel nacional.  
+El titulo de esta visualización deberá ser "BENEFICIOS DE MAS VENDIDOS".
